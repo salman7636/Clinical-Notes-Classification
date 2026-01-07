@@ -1,0 +1,501 @@
+text,label
+Patient reports chest pain and sweating,Cardiology
+ECG shows abnormal heart rhythm,Cardiology
+History of heart attack,Cardiology
+High blood pressure diagnosed,Cardiology
+Shortness of breath during exertion,Cardiology
+Irregular heartbeat observed,Cardiology
+Coronary artery disease confirmed,Cardiology
+Patient experiences palpitations,Cardiology
+Cardiac enzymes elevated,Cardiology
+Heart murmur detected,Cardiology
+High blood sugar levels detected,Endocrinology
+Diabetes type 2 diagnosed,Endocrinology
+Thyroid hormone imbalance observed,Endocrinology
+Frequent urination and thirst,Endocrinology
+Insulin therapy initiated,Endocrinology
+Weight gain due to hormonal imbalance,Endocrinology
+Low blood glucose episode,Endocrinology
+Endocrine disorder suspected,Endocrinology
+Metabolic syndrome identified,Endocrinology
+Abnormal HbA1c levels,Endocrinology
+Severe headache and dizziness,Neurology
+Patient suffers from seizures,Neurology
+Stroke symptoms observed,Neurology
+Loss of motor coordination,Neurology
+Numbness in limbs,Neurology
+Migraine attacks reported,Neurology
+Brain MRI abnormal,Neurology
+Memory loss complaints,Neurology
+Neurological deficit present,Neurology
+Loss of consciousness episode,Neurology
+Persistent cough and breathlessness,Pulmonology
+Asthma attack reported,Pulmonology
+Lung infection detected,Pulmonology
+COPD diagnosed,Pulmonology
+Chest X-ray abnormal,Pulmonology
+Shortness of breath at night,Pulmonology
+Respiratory distress observed,Pulmonology
+Chronic bronchitis symptoms,Pulmonology
+Wheezing sounds present,Pulmonology
+Oxygen saturation low,Pulmonology
+Abdominal pain and vomiting,Gastroenterology
+Acid reflux symptoms,Gastroenterology
+Liver enzymes elevated,Gastroenterology
+Peptic ulcer confirmed,Gastroenterology
+Loss of appetite reported,Gastroenterology
+Gastritis diagnosed,Gastroenterology
+Nausea after meals,Gastroenterology
+Digestive discomfort present,Gastroenterology
+Abdominal tenderness noted,Gastroenterology
+Bowel movement irregular,Gastroenterology
+Patient reports chest pain and sweating,Cardiology
+ECG shows abnormal heart rhythm,Cardiology
+History of heart attack,Cardiology
+High blood pressure diagnosed,Cardiology
+Shortness of breath during exertion,Cardiology
+Irregular heartbeat observed,Cardiology
+Coronary artery disease confirmed,Cardiology
+Patient experiences palpitations,Cardiology
+Cardiac enzymes elevated,Cardiology
+Heart murmur detected,Cardiology
+High blood sugar levels detected,Endocrinology
+Diabetes type 2 diagnosed,Endocrinology
+Thyroid hormone imbalance observed,Endocrinology
+Frequent urination and thirst,Endocrinology
+Insulin therapy initiated,Endocrinology
+Weight gain due to hormonal imbalance,Endocrinology
+Low blood glucose episode,Endocrinology
+Endocrine disorder suspected,Endocrinology
+Metabolic syndrome identified,Endocrinology
+Abnormal HbA1c levels,Endocrinology
+Severe headache and dizziness,Neurology
+Patient suffers from seizures,Neurology
+Stroke symptoms observed,Neurology
+Loss of motor coordination,Neurology
+Numbness in limbs,Neurology
+Migraine attacks reported,Neurology
+Brain MRI abnormal,Neurology
+Memory loss complaints,Neurology
+Neurological deficit present,Neurology
+Loss of consciousness episode,Neurology
+Persistent cough and breathlessness,Pulmonology
+Asthma attack reported,Pulmonology
+Lung infection detected,Pulmonology
+COPD diagnosed,Pulmonology
+Chest X-ray abnormal,Pulmonology
+Shortness of breath at night,Pulmonology
+Respiratory distress observed,Pulmonology
+Chronic bronchitis symptoms,Pulmonology
+Wheezing sounds present,Pulmonology
+Oxygen saturation low,Pulmonology
+Abdominal pain and vomiting,Gastroenterology
+Acid reflux symptoms,Gastroenterology
+Liver enzymes elevated,Gastroenterology
+Peptic ulcer confirmed,Gastroenterology
+Loss of appetite reported,Gastroenterology
+Gastritis diagnosed,Gastroenterology
+Nausea after meals,Gastroenterology
+Digestive discomfort present,Gastroenterology
+Abdominal tenderness noted,Gastroenterology
+Bowel movement irregular,Gastroenterology
+Patient reports chest pain and sweating,Cardiology
+ECG shows abnormal heart rhythm,Cardiology
+History of heart attack,Cardiology
+High blood pressure diagnosed,Cardiology
+Shortness of breath during exertion,Cardiology
+Irregular heartbeat observed,Cardiology
+Coronary artery disease confirmed,Cardiology
+Patient experiences palpitations,Cardiology
+Cardiac enzymes elevated,Cardiology
+Heart murmur detected,Cardiology
+High blood sugar levels detected,Endocrinology
+Diabetes type 2 diagnosed,Endocrinology
+Thyroid hormone imbalance observed,Endocrinology
+Frequent urination and thirst,Endocrinology
+Insulin therapy initiated,Endocrinology
+Weight gain due to hormonal imbalance,Endocrinology
+Low blood glucose episode,Endocrinology
+Endocrine disorder suspected,Endocrinology
+Metabolic syndrome identified,Endocrinology
+Abnormal HbA1c levels,Endocrinology
+Severe headache and dizziness,Neurology
+Patient suffers from seizures,Neurology
+Stroke symptoms observed,Neurology
+Loss of motor coordination,Neurology
+Numbness in limbs,Neurology
+Migraine attacks reported,Neurology
+Brain MRI abnormal,Neurology
+Memory loss complaints,Neurology
+Neurological deficit present,Neurology
+Loss of consciousness episode,Neurology
+Persistent cough and breathlessness,Pulmonology
+Asthma attack reported,Pulmonology
+Lung infection detected,Pulmonology
+COPD diagnosed,Pulmonology
+Chest X-ray abnormal,Pulmonology
+Shortness of breath at night,Pulmonology
+Respiratory distress observed,Pulmonology
+Chronic bronchitis symptoms,Pulmonology
+Wheezing sounds present,Pulmonology
+Oxygen saturation low,Pulmonology
+Abdominal pain and vomiting,Gastroenterology
+Acid reflux symptoms,Gastroenterology
+Liver enzymes elevated,Gastroenterology
+Peptic ulcer confirmed,Gastroenterology
+Loss of appetite reported,Gastroenterology
+Gastritis diagnosed,Gastroenterology
+Nausea after meals,Gastroenterology
+Digestive discomfort present,Gastroenterology
+Abdominal tenderness noted,Gastroenterology
+Bowel movement irregular,Gastroenterology
+Patient reports chest pain and sweating,Cardiology
+ECG shows abnormal heart rhythm,Cardiology
+History of heart attack,Cardiology
+High blood pressure diagnosed,Cardiology
+Shortness of breath during exertion,Cardiology
+Irregular heartbeat observed,Cardiology
+Coronary artery disease confirmed,Cardiology
+Patient experiences palpitations,Cardiology
+Cardiac enzymes elevated,Cardiology
+Heart murmur detected,Cardiology
+High blood sugar levels detected,Endocrinology
+Diabetes type 2 diagnosed,Endocrinology
+Thyroid hormone imbalance observed,Endocrinology
+Frequent urination and thirst,Endocrinology
+Insulin therapy initiated,Endocrinology
+Weight gain due to hormonal imbalance,Endocrinology
+Low blood glucose episode,Endocrinology
+Endocrine disorder suspected,Endocrinology
+Metabolic syndrome identified,Endocrinology
+Abnormal HbA1c levels,Endocrinology
+Severe headache and dizziness,Neurology
+Patient suffers from seizures,Neurology
+Stroke symptoms observed,Neurology
+Loss of motor coordination,Neurology
+Numbness in limbs,Neurology
+Migraine attacks reported,Neurology
+Brain MRI abnormal,Neurology
+Memory loss complaints,Neurology
+Neurological deficit present,Neurology
+Loss of consciousness episode,Neurology
+Persistent cough and breathlessness,Pulmonology
+Asthma attack reported,Pulmonology
+Lung infection detected,Pulmonology
+COPD diagnosed,Pulmonology
+Chest X-ray abnormal,Pulmonology
+Shortness of breath at night,Pulmonology
+Respiratory distress observed,Pulmonology
+Chronic bronchitis symptoms,Pulmonology
+Wheezing sounds present,Pulmonology
+Oxygen saturation low,Pulmonology
+Abdominal pain and vomiting,Gastroenterology
+Acid reflux symptoms,Gastroenterology
+Liver enzymes elevated,Gastroenterology
+Peptic ulcer confirmed,Gastroenterology
+Loss of appetite reported,Gastroenterology
+Gastritis diagnosed,Gastroenterology
+Nausea after meals,Gastroenterology
+Digestive discomfort present,Gastroenterology
+Abdominal tenderness noted,Gastroenterology
+Bowel movement irregular,Gastroenterology
+Patient reports chest pain and sweating,Cardiology
+ECG shows abnormal heart rhythm,Cardiology
+History of heart attack,Cardiology
+High blood pressure diagnosed,Cardiology
+Shortness of breath during exertion,Cardiology
+Irregular heartbeat observed,Cardiology
+Coronary artery disease confirmed,Cardiology
+Patient experiences palpitations,Cardiology
+Cardiac enzymes elevated,Cardiology
+Heart murmur detected,Cardiology
+High blood sugar levels detected,Endocrinology
+Diabetes type 2 diagnosed,Endocrinology
+Thyroid hormone imbalance observed,Endocrinology
+Frequent urination and thirst,Endocrinology
+Insulin therapy initiated,Endocrinology
+Weight gain due to hormonal imbalance,Endocrinology
+Low blood glucose episode,Endocrinology
+Endocrine disorder suspected,Endocrinology
+Metabolic syndrome identified,Endocrinology
+Abnormal HbA1c levels,Endocrinology
+Severe headache and dizziness,Neurology
+Patient suffers from seizures,Neurology
+Stroke symptoms observed,Neurology
+Loss of motor coordination,Neurology
+Numbness in limbs,Neurology
+Migraine attacks reported,Neurology
+Brain MRI abnormal,Neurology
+Memory loss complaints,Neurology
+Neurological deficit present,Neurology
+Loss of consciousness episode,Neurology
+Persistent cough and breathlessness,Pulmonology
+Asthma attack reported,Pulmonology
+Lung infection detected,Pulmonology
+COPD diagnosed,Pulmonology
+Chest X-ray abnormal,Pulmonology
+Shortness of breath at night,Pulmonology
+Respiratory distress observed,Pulmonology
+Chronic bronchitis symptoms,Pulmonology
+Wheezing sounds present,Pulmonology
+Oxygen saturation low,Pulmonology
+Abdominal pain and vomiting,Gastroenterology
+Acid reflux symptoms,Gastroenterology
+Liver enzymes elevated,Gastroenterology
+Peptic ulcer confirmed,Gastroenterology
+Loss of appetite reported,Gastroenterology
+Gastritis diagnosed,Gastroenterology
+Nausea after meals,Gastroenterology
+Digestive discomfort present,Gastroenterology
+Abdominal tenderness noted,Gastroenterology
+Bowel movement irregular,Gastroenterology
+Patient reports chest pain and sweating,Cardiology
+ECG shows abnormal heart rhythm,Cardiology
+History of heart attack,Cardiology
+High blood pressure diagnosed,Cardiology
+Shortness of breath during exertion,Cardiology
+Irregular heartbeat observed,Cardiology
+Coronary artery disease confirmed,Cardiology
+Patient experiences palpitations,Cardiology
+Cardiac enzymes elevated,Cardiology
+Heart murmur detected,Cardiology
+High blood sugar levels detected,Endocrinology
+Diabetes type 2 diagnosed,Endocrinology
+Thyroid hormone imbalance observed,Endocrinology
+Frequent urination and thirst,Endocrinology
+Insulin therapy initiated,Endocrinology
+Weight gain due to hormonal imbalance,Endocrinology
+Low blood glucose episode,Endocrinology
+Endocrine disorder suspected,Endocrinology
+Metabolic syndrome identified,Endocrinology
+Abnormal HbA1c levels,Endocrinology
+Severe headache and dizziness,Neurology
+Patient suffers from seizures,Neurology
+Stroke symptoms observed,Neurology
+Loss of motor coordination,Neurology
+Numbness in limbs,Neurology
+Migraine attacks reported,Neurology
+Brain MRI abnormal,Neurology
+Memory loss complaints,Neurology
+Neurological deficit present,Neurology
+Loss of consciousness episode,Neurology
+Persistent cough and breathlessness,Pulmonology
+Asthma attack reported,Pulmonology
+Lung infection detected,Pulmonology
+COPD diagnosed,Pulmonology
+Chest X-ray abnormal,Pulmonology
+Shortness of breath at night,Pulmonology
+Respiratory distress observed,Pulmonology
+Chronic bronchitis symptoms,Pulmonology
+Wheezing sounds present,Pulmonology
+Oxygen saturation low,Pulmonology
+Abdominal pain and vomiting,Gastroenterology
+Acid reflux symptoms,Gastroenterology
+Liver enzymes elevated,Gastroenterology
+Peptic ulcer confirmed,Gastroenterology
+Loss of appetite reported,Gastroenterology
+Gastritis diagnosed,Gastroenterology
+Nausea after meals,Gastroenterology
+Digestive discomfort present,Gastroenterology
+Abdominal tenderness noted,Gastroenterology
+Bowel movement irregular,Gastroenterology
+Patient reports chest pain and sweating,Cardiology
+ECG shows abnormal heart rhythm,Cardiology
+History of heart attack,Cardiology
+High blood pressure diagnosed,Cardiology
+Shortness of breath during exertion,Cardiology
+Irregular heartbeat observed,Cardiology
+Coronary artery disease confirmed,Cardiology
+Patient experiences palpitations,Cardiology
+Cardiac enzymes elevated,Cardiology
+Heart murmur detected,Cardiology
+High blood sugar levels detected,Endocrinology
+Diabetes type 2 diagnosed,Endocrinology
+Thyroid hormone imbalance observed,Endocrinology
+Frequent urination and thirst,Endocrinology
+Insulin therapy initiated,Endocrinology
+Weight gain due to hormonal imbalance,Endocrinology
+Low blood glucose episode,Endocrinology
+Endocrine disorder suspected,Endocrinology
+Metabolic syndrome identified,Endocrinology
+Abnormal HbA1c levels,Endocrinology
+Severe headache and dizziness,Neurology
+Patient suffers from seizures,Neurology
+Stroke symptoms observed,Neurology
+Loss of motor coordination,Neurology
+Numbness in limbs,Neurology
+Migraine attacks reported,Neurology
+Brain MRI abnormal,Neurology
+Memory loss complaints,Neurology
+Neurological deficit present,Neurology
+Loss of consciousness episode,Neurology
+Persistent cough and breathlessness,Pulmonology
+Asthma attack reported,Pulmonology
+Lung infection detected,Pulmonology
+COPD diagnosed,Pulmonology
+Chest X-ray abnormal,Pulmonology
+Shortness of breath at night,Pulmonology
+Respiratory distress observed,Pulmonology
+Chronic bronchitis symptoms,Pulmonology
+Wheezing sounds present,Pulmonology
+Oxygen saturation low,Pulmonology
+Abdominal pain and vomiting,Gastroenterology
+Acid reflux symptoms,Gastroenterology
+Liver enzymes elevated,Gastroenterology
+Peptic ulcer confirmed,Gastroenterology
+Loss of appetite reported,Gastroenterology
+Gastritis diagnosed,Gastroenterology
+Nausea after meals,Gastroenterology
+Digestive discomfort present,Gastroenterology
+Abdominal tenderness noted,Gastroenterology
+Bowel movement irregular,Gastroenterology
+Patient reports chest pain and sweating,Cardiology
+ECG shows abnormal heart rhythm,Cardiology
+History of heart attack,Cardiology
+High blood pressure diagnosed,Cardiology
+Shortness of breath during exertion,Cardiology
+Irregular heartbeat observed,Cardiology
+Coronary artery disease confirmed,Cardiology
+Patient experiences palpitations,Cardiology
+Cardiac enzymes elevated,Cardiology
+Heart murmur detected,Cardiology
+High blood sugar levels detected,Endocrinology
+Diabetes type 2 diagnosed,Endocrinology
+Thyroid hormone imbalance observed,Endocrinology
+Frequent urination and thirst,Endocrinology
+Insulin therapy initiated,Endocrinology
+Weight gain due to hormonal imbalance,Endocrinology
+Low blood glucose episode,Endocrinology
+Endocrine disorder suspected,Endocrinology
+Metabolic syndrome identified,Endocrinology
+Abnormal HbA1c levels,Endocrinology
+Severe headache and dizziness,Neurology
+Patient suffers from seizures,Neurology
+Stroke symptoms observed,Neurology
+Loss of motor coordination,Neurology
+Numbness in limbs,Neurology
+Migraine attacks reported,Neurology
+Brain MRI abnormal,Neurology
+Memory loss complaints,Neurology
+Neurological deficit present,Neurology
+Loss of consciousness episode,Neurology
+Persistent cough and breathlessness,Pulmonology
+Asthma attack reported,Pulmonology
+Lung infection detected,Pulmonology
+COPD diagnosed,Pulmonology
+Chest X-ray abnormal,Pulmonology
+Shortness of breath at night,Pulmonology
+Respiratory distress observed,Pulmonology
+Chronic bronchitis symptoms,Pulmonology
+Wheezing sounds present,Pulmonology
+Oxygen saturation low,Pulmonology
+Abdominal pain and vomiting,Gastroenterology
+Acid reflux symptoms,Gastroenterology
+Liver enzymes elevated,Gastroenterology
+Peptic ulcer confirmed,Gastroenterology
+Loss of appetite reported,Gastroenterology
+Gastritis diagnosed,Gastroenterology
+Nausea after meals,Gastroenterology
+Digestive discomfort present,Gastroenterology
+Abdominal tenderness noted,Gastroenterology
+Bowel movement irregular,Gastroenterology
+Patient reports chest pain and sweating,Cardiology
+ECG shows abnormal heart rhythm,Cardiology
+History of heart attack,Cardiology
+High blood pressure diagnosed,Cardiology
+Shortness of breath during exertion,Cardiology
+Irregular heartbeat observed,Cardiology
+Coronary artery disease confirmed,Cardiology
+Patient experiences palpitations,Cardiology
+Cardiac enzymes elevated,Cardiology
+Heart murmur detected,Cardiology
+High blood sugar levels detected,Endocrinology
+Diabetes type 2 diagnosed,Endocrinology
+Thyroid hormone imbalance observed,Endocrinology
+Frequent urination and thirst,Endocrinology
+Insulin therapy initiated,Endocrinology
+Weight gain due to hormonal imbalance,Endocrinology
+Low blood glucose episode,Endocrinology
+Endocrine disorder suspected,Endocrinology
+Metabolic syndrome identified,Endocrinology
+Abnormal HbA1c levels,Endocrinology
+Severe headache and dizziness,Neurology
+Patient suffers from seizures,Neurology
+Stroke symptoms observed,Neurology
+Loss of motor coordination,Neurology
+Numbness in limbs,Neurology
+Migraine attacks reported,Neurology
+Brain MRI abnormal,Neurology
+Memory loss complaints,Neurology
+Neurological deficit present,Neurology
+Loss of consciousness episode,Neurology
+Persistent cough and breathlessness,Pulmonology
+Asthma attack reported,Pulmonology
+Lung infection detected,Pulmonology
+COPD diagnosed,Pulmonology
+Chest X-ray abnormal,Pulmonology
+Shortness of breath at night,Pulmonology
+Respiratory distress observed,Pulmonology
+Chronic bronchitis symptoms,Pulmonology
+Wheezing sounds present,Pulmonology
+Oxygen saturation low,Pulmonology
+Abdominal pain and vomiting,Gastroenterology
+Acid reflux symptoms,Gastroenterology
+Liver enzymes elevated,Gastroenterology
+Peptic ulcer confirmed,Gastroenterology
+Loss of appetite reported,Gastroenterology
+Gastritis diagnosed,Gastroenterology
+Nausea after meals,Gastroenterology
+Digestive discomfort present,Gastroenterology
+Abdominal tenderness noted,Gastroenterology
+Bowel movement irregular,Gastroenterology
+Patient reports chest pain and sweating,Cardiology
+ECG shows abnormal heart rhythm,Cardiology
+History of heart attack,Cardiology
+High blood pressure diagnosed,Cardiology
+Shortness of breath during exertion,Cardiology
+Irregular heartbeat observed,Cardiology
+Coronary artery disease confirmed,Cardiology
+Patient experiences palpitations,Cardiology
+Cardiac enzymes elevated,Cardiology
+Heart murmur detected,Cardiology
+High blood sugar levels detected,Endocrinology
+Diabetes type 2 diagnosed,Endocrinology
+Thyroid hormone imbalance observed,Endocrinology
+Frequent urination and thirst,Endocrinology
+Insulin therapy initiated,Endocrinology
+Weight gain due to hormonal imbalance,Endocrinology
+Low blood glucose episode,Endocrinology
+Endocrine disorder suspected,Endocrinology
+Metabolic syndrome identified,Endocrinology
+Abnormal HbA1c levels,Endocrinology
+Severe headache and dizziness,Neurology
+Patient suffers from seizures,Neurology
+Stroke symptoms observed,Neurology
+Loss of motor coordination,Neurology
+Numbness in limbs,Neurology
+Migraine attacks reported,Neurology
+Brain MRI abnormal,Neurology
+Memory loss complaints,Neurology
+Neurological deficit present,Neurology
+Loss of consciousness episode,Neurology
+Persistent cough and breathlessness,Pulmonology
+Asthma attack reported,Pulmonology
+Lung infection detected,Pulmonology
+COPD diagnosed,Pulmonology
+Chest X-ray abnormal,Pulmonology
+Shortness of breath at night,Pulmonology
+Respiratory distress observed,Pulmonology
+Chronic bronchitis symptoms,Pulmonology
+Wheezing sounds present,Pulmonology
+Oxygen saturation low,Pulmonology
+Abdominal pain and vomiting,Gastroenterology
+Acid reflux symptoms,Gastroenterology
+Liver enzymes elevated,Gastroenterology
+Peptic ulcer confirmed,Gastroenterology
+Loss of appetite reported,Gastroenterology
+Gastritis diagnosed,Gastroenterology
+Nausea after meals,Gastroenterology
+Digestive discomfort present,Gastroenterology
+Abdominal tenderness noted,Gastroenterology
+Bowel movement irregular,Gastroenterology
