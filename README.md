@@ -23,18 +23,17 @@ The objective of this project is to develop a deep learning–based system that 
  
  
  # Dataset Description:
-The dataset consists of text-based clinical notes collected from synthetic/public medical sources.
-Each record contains:
-	•	Text: Clinical note written by a healthcare professional
-	•	Label: Category of the clinical note
-Categories:
-	•	Diagnosis
-	•	Prescription
-	•	Lab Report
-	•	Progress Notes
-	•	Discharge Summary
-The dataset is stored in CSV format and is preprocessed before training.
+The dataset used for this project is a synthetic clinical notes dataset created for academic purposes. It contains clinical text records and their corresponding labels for classification.
 
+File name: clinical_notes_dl.csv
+
+Format: CSV
+
+Type: Text-based clinical notes
+
+Classes: Diagnosis, Prescription, Lab Report, Progress Notes, Discharge Summary
+
+The dataset is included in the GitHub repository since the file size is small. All data was preprocessed before training the deep learning model
 
 
 # Methodology/Approach
