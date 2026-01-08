@@ -1,10 +1,12 @@
-# Project Title 
+# Project Title :
 
 Clinical Notes Classification Using Deep Learning
 
-# Problem Statement:
+# Problem Statement :
 
-Healthcare systems generate a large volume of unstructured clinical notes such as diagnosis reports, prescriptions, lab reports, discharge summaries, and progress notes. Manually classifying these notes is time-consuming, error-prone, and inefficient. There is a need for an automated system that can accurately classify clinical notes into appropriate categories using artificial intelligence techniques.
+Healthcare systems generate a large volume of unstructured clinical notes such as diagnosis reports, prescriptions, lab reports, discharge summaries, and progress notes.
+Manually classifying these notes is time-consuming, error-prone, and inefficient.
+There is a need for an automated system that can accurately classify clinical notes into appropriate categories using artificial intelligence techniques.
 
 
 
