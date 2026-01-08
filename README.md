@@ -11,8 +11,8 @@ There is a need for an automated system that can accurately classify clinical no
 
 
 
-# Objective:
 
+# Objective :
 1.To automatically classify clinical notes into predefined medical categories.
 2.To apply Natural Language Processing (NLP) techniques for text preprocessing.
 3.To design and train a deep learning model for text classification.
