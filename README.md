@@ -13,11 +13,7 @@ There is a need for an automated system that can accurately classify clinical no
 
 
 # Objective :
-1.To automatically classify clinical notes into predefined medical categories.
-2.To apply Natural Language Processing (NLP) techniques for text preprocessing.
-3.To design and train a deep learning model for text classification.
-4.To evaluate model performance using standard evaluation metrics.
-5.To improve healthcare data organization and management.
+The objective of this project is to develop a deep learning–based system that automatically classifies clinical notes into predefined medical categories using Natural Language Processing techniques. The system aims to improve the efficiency and accuracy of managing unstructured clinical text data.
 
  
  
@@ -27,19 +23,16 @@ There is a need for an automated system that can accurately classify clinical no
  
  
  # Dataset Description:
-
 The dataset consists of text-based clinical notes collected from synthetic/public medical sources.
 Each record contains:
 	•	Text: Clinical note written by a healthcare professional
 	•	Label: Category of the clinical note
-
 Categories:
 	•	Diagnosis
 	•	Prescription
 	•	Lab Report
 	•	Progress Notes
 	•	Discharge Summary
-
 The dataset is stored in CSV format and is preprocessed before training.
 
 
